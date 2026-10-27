@@ -1,0 +1,14 @@
+Table S-A. Relationship between arrivals and richness across divergence cut-offs
+Divergence cut-off t (%),Genomes,Arrival families,Genomes with >=1 arrival (%),Exponent [95% CI],P,Partial Spearman rho (TE bp held)
+3,1033,331,21.3,"0.54 [0.37, 0.72]",1.4e-09,0.24
+4,1033,526,30.4,"0.63 [0.48, 0.78]",2.5e-16,0.31
+5,1033,771,38.0,"0.67 [0.54, 0.81]",1.6e-22,0.35
+6,1033,1063,45.5,"0.74 [0.62, 0.86]",9.5e-33,0.43
+7,1033,1369,52.9,"0.77 [0.66, 0.89]",2.8e-39,0.48
+
+Table S-B. Arrivals by richness quartile (t = 5%)
+Richness quartile,Genomes,Median families (80-80-80),Mean arrivals per genome,Genomes with >=1 arrival (%)
+Q1,259,38,0.43,31.3
+Q2,259,305,0.54,30.5
+Q3,257,918,0.69,32.3
+Q4,258,2186,1.33,58.1
